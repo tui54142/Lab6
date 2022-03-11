@@ -2,7 +2,7 @@
 Intro to Visualization Lab 6
 
 ## Activity 2
-! Activity 2 [Lab6_A2](https://user-images.githubusercontent.com/77812883/157950457-72b86a46-8c44-49c4-8a4a-74039666143b.PNG)
+![Lab6_A2](https://user-images.githubusercontent.com/77812883/157950730-88668c6d-4041-4caa-9acf-2d5bd53570d1.PNG)
 
 
 ##Bitcoin - Activity 3
